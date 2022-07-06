@@ -1,0 +1,124 @@
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+/* .half-width img{
+    position: fixed; 
+    width: 100%; 
+    height: 100%;
+} */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white ;
+  }
+  h1{
+    font-size: 50px;
+  }
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+  .cn-ter{
+    text-align: center;
+  }
+  .link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    font-weight: 700;
+  }
+  .link-button2{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+  }
+.donote-now{
+  
+  position: absolute;
+  top: 110%;
+  left: 40%;
+  font-weight: 700;
+}
+.center-text{
+ 
+  position: absolute;
+    top: 130%;
+    left: 30%;
+    width: 50%;
+    margin: 0 auto;
+   
+}
+ 
+.half-image{
+  width: 100%;
+}
+
+
+.center-belal{
+  text-align: center;
+}
+.display-distance{
+  display: flex;
+  width: 50%;
+  gap: 15%;
+  margin: 0 auto;
+}
+.border-color{
+ background-image: linear-gradient(tomato black);
+  
+   
+  border: 2px solid red;
+}
+.input-phlc{
+  text-align: center;
+}
+
+
+.div-1 {
+  background-color: #EBEBEB;
+  height: 250px;
+  width: 1000px;
+  
+}
+.div-2 {
+  background-color: #ABBAEA;
+  height: 250px;
+  width: 1000px;
+}
+.div-3 {
+  background-color: #FBD603;
+  height: 250px;
+  width: 1000px;
+}
+.div-centor{
+  display: flex;
+  width: 100%;
+  gap: 5%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.donate-center{
+  text-align: center;
+}
+.footer {
+  
+  height: 200px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.973);
+  color: white;
+  text-align: center;
+}
+
+
